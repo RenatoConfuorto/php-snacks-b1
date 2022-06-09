@@ -12,6 +12,7 @@
     <li><a href="snack1/index.php">Snack 1</a></li>
     <li><a href="snack2/index.php">Snack 2</a></li>
     <li><a href="snack3/index.php">Snack 3</a></li>
+    <li><a href="snack4/index.php">Snack 4</a></li>
   </ul>
 </body>
 </html>
