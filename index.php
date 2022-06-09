@@ -8,6 +8,9 @@
 </head>
 <body>
   
-  <a href="snack1/index.php">Snack 1</a>
+  <ul>
+    <li><a href="snack1/index.php">Snack 1</a></li>
+    <li><a href="snack2/index.php">Snack 2</a></li>
+  </ul>
 </body>
 </html>
