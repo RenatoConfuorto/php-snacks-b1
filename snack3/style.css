@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.post-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.post{
+  border: 2px solid black;
+}
+
+.post-head{
+  border-bottom: 1px dashed black;
+  padding: .4rem 1rem;
+}
+
+.post-text{
+  padding: .4rem 1rem;
+}
